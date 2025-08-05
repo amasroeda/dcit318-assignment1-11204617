@@ -1,0 +1,15 @@
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\bin\Debug\net8.0\AssignmentApp.exe
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\bin\Debug\net8.0\AssignmentApp.deps.json
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\bin\Debug\net8.0\AssignmentApp.runtimeconfig.json
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\bin\Debug\net8.0\AssignmentApp.dll
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\bin\Debug\net8.0\AssignmentApp.pdb
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.AssemblyInfo.cs
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.sourcelink.json
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.dll
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\refint\AssignmentApp.dll
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.pdb
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\AssignmentApp.genruntimeconfig.cache
+C:\Users\amasr\dcit318-assignment1-11204617\AssignmentApp\obj\Debug\net8.0\ref\AssignmentApp.dll
